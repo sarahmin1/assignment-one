@@ -12,7 +12,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 @import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
 /* Start your base/mobile styles here */
 
-html, body {
+html, body, p, header {
   /* Sets default font-size to 16px, ensuring 1em = 16px; */
   font-size: 16px;
 }
